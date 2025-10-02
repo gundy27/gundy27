@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gundy
+# 👋 Hi, I'm Dan Gunderson (Gundy)
 Growth-focused product manager with 12+ years of experience spanning engineering project leadership in the Air Force to driving AI/ML products from concept to launch at startups. Known for expertise in **user engagement, adoption strategies, and integrating AI into solutions**. Proven collaborator with design, engineering, data science, and GTM teams to deliver customer value, accelerate growth, and build new revenue streams.
 
 1. 💡 Passionate about data, growth, AI, and user experience
