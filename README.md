@@ -24,6 +24,48 @@ _Hobby project built with Bolt.new to track golf shot data_
 
 ---
 
+### [AI-Utils: Enterprise AI Development Platform](https://github.com/gundy27/ai-utils)
+_Personal platform to build enterprise-grade AI products_ 
+
+#### **🔧 Core Libraries**
+- **LLM Wrappers** - OpenAI client with streaming, error handling, and structured responses
+- **HTTP Utils** - REST client with retry logic, rate limiting, and async support
+- **Data Pipelines** - Advanced document processing with PDF parsing, OCR, and semantic chunking
+- **Downloader** - Universal file fetching from HTTP, FTP, SFTP, S3 with integrity verification
+
+#### **🛡️ Enterprise Services**
+- **Auth & Secrets Service** - JWT authentication, OAuth2.1, RBAC, multi-provider secrets management (AWS, Vault, Env)
+- **Audit Logging** - Comprehensive event tracking with pluggable backends
+- **Rate Limiting** - Token bucket and sliding window algorithms
+
+#### **🧠 Advanced AI Features**
+- **Semantic Chunking** - Embedding-based text splitting for optimal LLM context
+- **Multi-Parser PDF Processing** - PyMuPDF, pdfplumber, PyPDF2 with OCR fallback
+- **Centralized Configuration** - LLM-optimized presets (OpenAI, Claude, local models)
+- **RAG Pipeline Components** - Document ingestion, embedding generation, retrieval
+
+#### **🏗️ Architecture & DevOps**
+- **Plugin System** - Extensible architecture for custom parsers and processors  
+- **Metrics & Observability** - Real-time dashboards, alerting, performance tracking
+- **Multiple Output Formats** - JSON, NDJSON, Parquet with schema validation
+- **Environment-Based Config** - Development, staging, production settings
+
+#### **📋 Starter Templates**
+- **API Service** - FastAPI with structured logging, metrics, and chat endpoints
+- **Web App** - Next.js with streaming chat UI and Docker deployment
+- **CLI Tools** - Click-based command-line interfaces with rich output
+
+#### **🎯 Production Ready**
+- Type-safe Python with comprehensive error handling
+- Docker containerization and docker-compose orchestration
+- Pre-commit hooks with ruff, black, prettier, eslint
+- Comprehensive test suites and example applications
+- Detailed documentation and configuration guides
+
+**Perfect for:** RAG applications, document processing pipelines, AI-powered APIs, enterprise authentication systems, and scalable AI development workflows.
+
+---
+
 ## 🛠️ Languages I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
