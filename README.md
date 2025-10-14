@@ -10,22 +10,11 @@ Growth-focused product manager with 12+ years of experience spanning engineering
 
 ## 🔧 Featured Projects
 
+### [1. AI-Utils: Personal AI Development Platform](https://github.com/gundy27/ai-utils)
+_Reusable modules to build enterprise-grade AI products_ 
 
-### [R10 Review](https://www.r10review.com)
-_Hobby project built with Bolt.new to track golf shot data_ 
-
-![R10 Review Gif](https://github.com/user-attachments/assets/4d79663e-9b46-42ef-ab08-27cbeaa76758)
-
-- Easy CSV upload and parsing
-- Summary table of all club accuracy and distances
-- AI recommendation on where to focus
-- Shot dispersion and histogram
-- Trend graph and PGA average comparison
-
----
-
-### [AI-Utils: Enterprise AI Development Platform](https://github.com/gundy27/ai-utils)
-_Personal platform to build enterprise-grade AI products_ 
+**RAG Pipeline built with tooling** 
+<img width="2591" height="1600" alt="mermaid-diagram-2025-10-14-121616" src="https://github.com/user-attachments/assets/f920a927-4a3a-4427-8480-80fcc7e6d141" />
 
 #### **🔧 Core Libraries**
 - **LLM Wrappers** - OpenAI client with streaming, error handling, and structured responses
@@ -63,6 +52,18 @@ _Personal platform to build enterprise-grade AI products_
 - Detailed documentation and configuration guides
 
 **Perfect for:** RAG applications, document processing pipelines, AI-powered APIs, enterprise authentication systems, and scalable AI development workflows.
+
+---
+### [2. R10 Review](https://www.r10review.com)
+_Hobby project built with Bolt.new to track golf shot data_ 
+
+![R10 Review Gif](https://github.com/user-attachments/assets/4d79663e-9b46-42ef-ab08-27cbeaa76758)
+
+- Easy CSV upload and parsing
+- Summary table of all club accuracy and distances
+- AI recommendation on where to focus
+- Shot dispersion and histogram
+- Trend graph and PGA average comparison
 
 ---
 
