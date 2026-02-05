@@ -107,6 +107,17 @@ _Hobby project built with Bolt.new to track golf shot data_
 - Acquired over 20 users 
 
 ---
+### [4. Portfolio](https://www.gundy.io)
+_Portfolio website to showcase work and attract new clients / full-time roles_ 
+
+![gundy.io](https://github.com/user-attachments/assets/d13c258f-ede9-483c-b99b-86a38fee13f0)
+
+- Built in Cursor
+- Established own design system to leverage reusable components
+- Allows me to quickly add/share new projects
+- Next.js and typscript
+
+---
 
 ## 🛠️ Languages I Work With
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
